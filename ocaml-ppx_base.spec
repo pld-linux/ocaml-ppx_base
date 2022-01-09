@@ -54,7 +54,7 @@ używających biblioteki ppx_base.
 
 %package devel
 Summary:	Base set of ppx rewriters - development part
-Summary(pl.UTF-8):	Podstawowy zbiór modułów przepisujących ppx - cześć programistyczna
+Summary(pl.UTF-8):	Podstawowy zbiór modułów przepisujących ppx - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
